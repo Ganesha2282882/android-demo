@@ -1,7 +1,7 @@
 Android Demo
 ------------
 
-Compile with python-for-android::
+Compile with python-for-android:
 
     ./build.py --package org.kivy.android.demo --name 'Android Demo' \
         --version 1 --private ~/code/android-demo/ \
